@@ -1,0 +1,14 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-migrate
+flask-restful
+flask-jwt-extended
+flask-caching
+redis
+celery[redis]==5.3.1
+requests
+python-dotenv
+email-validator
+gunicorn
+flask_mail
